@@ -1,0 +1,7 @@
+git clone [adress] -> Projektverzeichnis kopieren
+git pull -> get changes 
+git push -> update online version
+git branch [name] -> creates new branch with the name 
+git checkout [branch name] -> changes working branch 
+ 
+mc F10 ... to quit
